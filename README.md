@@ -37,6 +37,7 @@ A marketplace for students to buy and sell stuff, with real-time chat.
 
 ## 📫 Say hi
 [LinkedIn](https://www.linkedin.com/in/atharva-savalapurkar-866373317/)
+[Portfolio](https://gtk-as.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/atharva-savalapurkar-866373317/)
 
 Currently: learning DSA properly this time 😅
 
