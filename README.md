@@ -4,7 +4,7 @@ I started learning AI/ML in a very not-so-organized way (random YouTube rabbit h
 
 These days I mostly build AI systems that run locally and hold up in the real world, plus the backends that keep them alive. I like projects where something actually works at the end, not just a cool notebook.
 
-Outside of code, you'll probably find me at a hackathon, losing sleep and surviving on chai.
+Outside of code, you'll probably find me at a hackathon, losing sleep and surviving on coffee.
 
 ## 🛠️ Stuff I've built
 
